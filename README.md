@@ -34,3 +34,14 @@ ping 8.8.8.8
 - Documented complete network configuration
 
 **Evidence**
+1. Network Configuration
+![Network Config](network-config.png)
+*Output of 'ip a' command showing network interfaces and IP addresses*
+
+2. Security Scan Results
+![Nmap Port Scan](nmap-scan.png)
+*Nmap scan showing open ports and security assessment*
+
+3. Connectivity Test
+![Internet Connectivity Test](ping-test.png)
+*Successful ping to Google DNS (8.8.8.8) proving network connectivity*
